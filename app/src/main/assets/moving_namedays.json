@@ -2,8 +2,6 @@
   "namedays": [
     {
       "names": ["Χλόη"],
-      "depends_on": "special",
-      "easter_difference": null,
       "celebration": {
         "dependency": "special_1",
         "normal_date": null,

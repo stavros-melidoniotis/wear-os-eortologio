@@ -4,5 +4,6 @@
     This string is used for square devices and overridden by hello_world in
     values-round/strings.xml for round devices.
     -->
-    <string name="main_activity_heading">Σήμερα γιορτάζουν οι:</string>
+    <string name="no_namedays">Καμία γιορτή σήμερα</string>
+    <string name="moving_nameday_sec_label">(κινητή εορτή)</string>
 </resources>
