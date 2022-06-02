@@ -47,7 +47,7 @@ class MainActivity : ComponentActivity() {
             calculateMovingNamedays(fixedNamedays, movingNamedays, easterDay, easterMonth, year)
 
         val namesJSONArray = allNamedays
-            .getJSONObject("24/4")
+            .getJSONObject("$day/$month")
             .getJSONArray("names")
         val namesToCelebrate: ArrayList<String> = arrayListOf<String>()
 
